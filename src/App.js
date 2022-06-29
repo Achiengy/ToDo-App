@@ -1,6 +1,9 @@
 import "./css/main.css";
 import DisplayTodos from "./components/DisplayTodos";
 import Todos from "./components/Todos";
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
+
+ 
 
 import { motion } from "framer-motion";
 function App() {
@@ -16,7 +19,7 @@ function App() {
       >
         My.ToDo
       </motion.h1>
-        <button > LogIn</button>
+        <button> LogIn </button>
         </nav>
 
       <motion.div
@@ -24,7 +27,6 @@ function App() {
         animate={{ y: 0 }}
         transition={{ type: "spring", duration: 1 }}
       >
-
         <Todos />
         <DisplayTodos />
       </motion.div>
