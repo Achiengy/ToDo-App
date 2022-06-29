@@ -172,10 +172,8 @@ body {
   position: absolute;
   right: 0.3rem;
   top: 0.3rem;
-  background-color: #867bcd;
-  border: 2px solid #272727;
-  color: #e1ebfd;
-
+  color: black;
+  text-decoration: underline;
   font-size: 0.8rem;
   padding: 0.3rem 1rem;
   border-radius: 20px;
