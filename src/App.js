@@ -16,15 +16,15 @@ function App() {
       >
         My.ToDo
       </motion.h1>
-        <button > LogOut</button>
+        <button > LogIn</button>
         </nav>
-      
-     
+
       <motion.div
         initial={{ y: 1000 }}
         animate={{ y: 0 }}
         transition={{ type: "spring", duration: 1 }}
       >
+
         <Todos />
         <DisplayTodos />
       </motion.div>
