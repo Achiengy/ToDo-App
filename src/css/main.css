@@ -12,10 +12,11 @@ html {
 }
 
 body {
-  background: linear-gradient(
-    190deg,
-    rgb(134, 123, 205) 0%,
-    rgb(106, 90, 171) 100%
+  background: radial-gradient(
+    ellipse at left bottom,
+    rgba(22, 24, 47, 1) 0%,
+    rgba(38, 20, 72, 0.9) 59%,
+    rgba(17, 27, 75, 0.9) 100%
   );
   background-repeat: no-repeat;
   background-size: cover;
@@ -194,4 +195,28 @@ body {
   .card {
     margin-right: 0;
   }
+}
+
+
+
+
+
+nav {
+  background: #603bbb;
+  width: 100%;
+  padding: 10px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+ nav h2 {
+  color: #fff;
+}
+
+ nav button {
+  width: 86px;
+  padding: 8px 0;
+  background: #3a2b58;
+  color: #fff;
 }

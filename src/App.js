@@ -6,7 +6,9 @@ import { motion } from "framer-motion";
 function App() {
   return (
     <div className="App">
-      <motion.h1
+   
+        <nav>
+        <motion.h1
         initial={{ y: -200 }}
         animate={{ y: 0 }}
         transition={{ type: "spring", duration: 0.5 }}
@@ -14,6 +16,10 @@ function App() {
       >
         My.ToDo
       </motion.h1>
+        <button > LogOut</button>
+        </nav>
+      
+     
       <motion.div
         initial={{ y: 1000 }}
         animate={{ y: 0 }}
