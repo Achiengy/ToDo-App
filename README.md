@@ -69,4 +69,4 @@ SOFTWARE.
 
 Gmail - [Hope Pete](hope.pete@student.moringaschool.com)
 
-[Go Back to the top](# React-todo.app)
+
