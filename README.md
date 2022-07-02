@@ -24,7 +24,7 @@ npm start
 ```
 ### Back-End Repository
 
-<a href='https://github.com/Achiengy/ToDo-Server.git'>back-end_end repo<a/>
+<a href='https://github.com/Achiengy/ToDo-Server.git'>back_end repo<a/>
 
 
 
