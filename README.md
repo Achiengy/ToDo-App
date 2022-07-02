@@ -18,10 +18,13 @@ Install Dependencies
 npm install
 ```
 
-Run examples at http://localhost:3000/ with webpack dev server:
 ```
 npm start
 ```
+
+Run examples at http://localhost:3000/ with webpack dev server:
+
+
 ### Back-End Repository
 
 <a href='https://github.com/Achiengy/ToDo-Server.git'>back_end repo<a/>
@@ -36,12 +39,10 @@ npm start
 
 
 
-[Go Back to the top](# React-todo.app)
-
 ## Reference
 * <a href='https://reactjs.org/'>React Doc</a>
 
-[Go Back to the top](# React-todo.app)
+ 
 
 ## Licence
 
@@ -67,10 +68,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Go Back to the top](# React-todo.app)
+ 
 
 ## Authors Info
 
 Gmail - [Hope Pete](hope.pete@student.moringaschool.com)
-
-
