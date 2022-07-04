@@ -10,7 +10,7 @@
 + [Authors Info](#author-Info)
 
 ## Description
-<p>A to-do list app lets you write, organize, and reprioritize your tasks more efficiently. It also lets you attach notes, and links to a task, and lets you categorize the tasks.</p>
+<p>A to-do list app lets you write, organize, and reprioritize your tasks more efficiently. It also lets you categorize the tasks.</p>
 
 ## Installation
 Install Dependencies
